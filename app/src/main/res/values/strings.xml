@@ -1,9 +1,10 @@
 <resources>
     <string name="app_name">PasswordVerifier</string>
-    <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="title">Password Verifier!</string>
-    <string name="pass_hint">Try a password here!</string>
-    <string name="button_text">Confirm Password</string>
-    <string name="user_asdvise">Your password should have at least 5 characters and 1 Mayus.</string>
+    <string name="pass_hint">Crea una contraseña aqui!</string>
+    <string name="button_text">Confirmar</string>
+    <string name="user_asdvise">Tu contraseña debe tener al menos 5 caracteres y al menos una mayuscula.</string>
+    <string name="password_advice">Recuerda que para que la contraseña sea segura debe cumplir con las siguientes características:\n\n->Debe tener más de 5 caracteres\n\n->Debe tener al menos una letra mayúscula\n\nOtras características que la hacen más segura son:\n\n->Añadir números\n\n->Añadir caracteres especiales como !,%,#</string>
+
 
 </resources>
